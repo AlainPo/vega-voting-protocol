@@ -15,6 +15,8 @@ Vega Voting Protocol is a decentralized voting system where voting power is dete
 - **Auto-finalization**: When threshold is met or deadline passes
 - **Admin controls**: Only owner can create votes
 
+📊 **Full deployment details and transaction proofs available in [DEPLOYMENT.md](DEPLOYMENT.md)**
+
 ## 🏗️ Architecture
 
 ```
