@@ -9,7 +9,6 @@
 Vega Voting Protocol is a decentralized voting system where voting power is determined by the amount and duration of staked VV tokens. The protocol features:
 
 - **Time-weighted voting power**: `VP = Σ (remaining_duration² × amount)`
-- **Staking periods**: 1-4 years
 - **ERC20 token**: VV (VegaVoting)
 - **ERC721 NFTs**: Result certificates for finalized votes
 - **Auto-finalization**: When threshold is met or deadline passes
