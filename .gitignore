@@ -1,0 +1,25 @@
+# Foundry
+out/
+cache/
+broadcast/
+deployment.json
+vote_info.json
+stakes_info.json
+.env
+
+# Dependencies
+node_modules/
+lib/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
