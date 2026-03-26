@@ -9,7 +9,7 @@ import "../src/VotingCore.sol";
 
 contract DeployVegaVoting is Script {
     function run() external {
-        uint256 deployerPrivateKey = vm.envUint("PRIVATE_KEY");
+        uint256 deployerPrivateKey = vm.envUint("ADMIN_PRIVATE_KEY");
         address deployer = vm.addr(deployerPrivateKey);
 
         vm.startBroadcast(deployerPrivateKey);
